@@ -8,5 +8,6 @@
  * To change this template use File | Settings | File Templates.
  */
 class Test {
-    var subject = ""
+    //lateint 정의
+    lateinit var subject: String
 }
